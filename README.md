@@ -1,3 +1,3 @@
-# Introduction to Posenet with Three.js
+# Style Transfer X Generative Art
 
-Using the pre-trained tensorflowjs Posenet model with three.js
+Combining Style Transfer and Generated Art
